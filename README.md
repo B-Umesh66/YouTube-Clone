@@ -7,9 +7,9 @@ This project replicates the basic layout and features of YouTube — including a
 
 ## 🌟 Features
 
-- 🎥 **Video Player** – Embedded video player for playing videos directly on the page  
-- 📱 **Responsive Design** – Adapts beautifully across devices (mobile, tablet, desktop)  
-- 🧭 **Channel Navigation** – Simple navigation links for switching between different channels or video sections  
+- 🎥 **Video Player** – HyperReferences for playing videos directly on the page  
+- 📱 **Responsive Design** – Adapts beautifully across devices (tablet, desktop)  
+- 🧭 **Channel Navigation** – Simple navigation links for the channels  
 - 🎨 **Clean Layout** – Mimics YouTube’s modern interface with a focus on usability and design consistency  
 
 ---
@@ -20,7 +20,7 @@ This project replicates the basic layout and features of YouTube — including a
 |----------|-------------|
 | **Structure** | HTML5 |
 | **Styling** | CSS3 |
-| **Media** | `<video>` tag for embedded video playback |
+| **Media** | `<a>` tag for video playback |
 | **Layout** | Flexbox & CSS Grid for responsive design |
 
 ---
@@ -51,6 +51,7 @@ YouTube/
 
 ## 📸 Preview
 <img width="1919" height="912" alt="YouTube-Clone" src="https://github.com/user-attachments/assets/2bf1cf1a-dd59-4af4-9f97-ec9886a27f3a" />
+
 
 
 
