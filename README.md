@@ -30,23 +30,24 @@ This project replicates the basic layout and features of YouTube — including a
 1. **Clone or download** the repository  
    ```bash
    git clone https://github.com/B-Umesh66/YouTube-Clone.git
-2️. Open the **YouTube** folder in Your fav IDE
+2️. Open the **YouTube** folder in Your fav IDE<b>
 3. Run the ***youtube.html*** file by opening in your web browser
 
 ---
 
 ## 🖼️Project Structure
 
-YouTube/
+YouTube/<b>
 │
-├── logo               # This folder has the all logos/svgs
-├── profiles           # This folder includes channel and user profiles
-├── styles             # This folder has stylesheet files
-├── thumbnails         # This foler has images for the video thumbnails
-|── README.md          # Project documentation
-|──youtube.html        # Main HTML File
+├── logo               # This folder has the all logos/svgs<br>
+├── profiles           # This folder includes channel and user profiles<b>
+├── styles             # This folder has stylesheet files<br>
+├── thumbnails         # This foler has images for the video thumbnails<br>
+|── README.md          # Project documentation<br>
+|──youtube.html        # Main HTML File<br>
 
 ---
 
 ## 📸 Preview
 <img width="1919" height="912" alt="YouTube-Clone" src="https://github.com/user-attachments/assets/2bf1cf1a-dd59-4af4-9f97-ec9886a27f3a" />
+
