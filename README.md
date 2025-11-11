@@ -38,7 +38,7 @@ This project replicates the basic layout and features of YouTube — including a
 ## 🖼️Project Structure
 
 YouTube/<b>
-│
+│<br>
 ├── logo               # This folder has the all logos/svgs<br>
 ├── profiles           # This folder includes channel and user profiles<b>
 ├── styles             # This folder has stylesheet files<br>
@@ -50,4 +50,5 @@ YouTube/<b>
 
 ## 📸 Preview
 <img width="1919" height="912" alt="YouTube-Clone" src="https://github.com/user-attachments/assets/2bf1cf1a-dd59-4af4-9f97-ec9886a27f3a" />
+
 
